@@ -1,5 +1,7 @@
 # Vail-Coding-Task
 
+![Example Output](https://github.com/OleksandrSDET/Vail-coding-task/blob/main/Vail%20Systems%2C%20Inc.png)
+
 This is my coding submission for the pre-interview assignment for the Software Engineer, Test & Infrastructure II role at Vail Systems.
 
 ## 🧠 Problem Summary
