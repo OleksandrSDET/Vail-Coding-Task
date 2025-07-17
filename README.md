@@ -1,4 +1,4 @@
-# Vail-coding-task
+# Vail-Coding-Task
 
 This is my coding submission for the pre-interview assignment for the Software Engineer, Test & Infrastructure II role at Vail Systems.
 
