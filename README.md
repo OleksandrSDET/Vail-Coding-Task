@@ -1,5 +1,3 @@
-![Rotated Array Example](https://github.com/OleksandrSDET/Vail-coding-task/blob/main/Vail%20Systems%2C%20Inc.png)
-
 # Vail-Coding-Task
 
 This is my coding submission for the pre-interview assignment for the Software Engineer, Test & Infrastructure II role at Vail Systems.
